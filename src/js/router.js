@@ -1,8 +1,3 @@
-import Vuerouter from 'vue-router'
+import Vueouter from 'vue-router'
 
 
-var router = new  Vuerouter({
-    routes:[
-
-    ]
-})

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>这是account</h1>
+        <h2>111</h2>
     </div>
 
 </template>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>这是goodlist</h1>
+        <h2>444</h2>
     </div>
 
 </template>
