@@ -3,7 +3,7 @@
 
         <!-- 顶部Header 区域 -->
        
-        <mt-header fixed title="黑马程序员"></mt-header>
+        <mt-header fixed title="App"></mt-header>
 
        <!-- 中间的路由router-view区域 -->
 
@@ -45,6 +45,7 @@
 <style scoped>
 .app-container{
     padding-top:40px; 
+    padding-bottom: 50px; 
     overflow-x: hidden;
    
 }
